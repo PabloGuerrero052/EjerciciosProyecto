@@ -1,8 +1,4 @@
-# Markdown Cheat Sheet
 
-Gracias por visitar [Ciberninjas](https://ciberninjas.com)!
-
-Esta hoja de trucos de Markdown proporciona una descripción general rápida de todos los elementos de la sintaxis de Markdown. Si necesitas más información sobre cualquiera de los elementos, consulta las guías de referencia para [la sintaxis básica](https://ciberninjas.com/cheatsheet-hoja-trucos-markdown/#sintaxis-básica "Conoce la sintaxis básica de Markdown en Ciberninjas") y [la sintaxis extendida](https://ciberninjas.com/cheatsheet-hoja-trucos-markdown/#sintaxis-avanzada "Conoce la sintaxis avanzada de Markdown en Ciberninjas").
 
 ## Sintaxis Básica
 
@@ -52,7 +48,7 @@ Estos son los elementos descritos en el documento de diseño original de John Gr
 
 ### Imagen
 
-![texto alt](ciberninjas-logo.jpg)
+![texto alt]()
 
 ## Sintaxis Avanzada
 
